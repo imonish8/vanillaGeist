@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import { Button, Page, Text , Display, Image , Grid, Spacer , Divider} from '@geist-ui/core'
+
+import {  Text ,  Spacer , Divider} from '@geist-ui/core'
 import { FileLambda , X, Cpu} from '@geist-ui/icons'
 import './App.css'
 import Home from './Home'
